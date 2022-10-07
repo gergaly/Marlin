@@ -28,7 +28,7 @@
 /**
  * Marlin release version identifier
  */
-#define SHORT_BUILD_VERSION "3dt_ubl"
+#define SHORT_BUILD_VERSION "repeat"
 
 /**
  * Verbose version identifier which should contain a reference to the location
